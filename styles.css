@@ -51,5 +51,21 @@ ul {
 }
 
 .button {
-    background-color: #3882F6
+    background-color: #3882F6;
 }
+
+/* .firstPart, .placeholder {
+    /* display: flex; */
+
+
+.firstPart {
+    display: flex;
+    /* align-items: flex-start; */
+    flex-direction: column;
+    align-self: flex-start
+}
+/* 
+.placeholder {
+    display: flex;
+    align-items: flex-end;
+} */
