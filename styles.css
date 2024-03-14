@@ -15,7 +15,7 @@ body {
     background-color: #1F2937;
 }
 
-.whiteBackgroundColorFirstPart {
+.whiteBackgroundColorSecondPart {
     background-color: white;
 }
 
@@ -156,4 +156,12 @@ ul {
 
 .quoteAuthor {
     font-weight: 800;
+}
+
+/* SignUp */
+
+.signUp {
+    background-color: white;
+    padding-top: 50px;
+    padding-bottom: 70px;
 }
